@@ -1,4 +1,4 @@
 # Week-1
-Updated on 23rd Jan '25. 
+<h3>Crop Production Dataset is preprocessed and data visualisation is performed to gain insights.</h3>
 <br>
-Crop Production Dataset is preprocessed and data visualisation is performed to gain insights.
+<p>Crop production dataset has various columns such as 'N', 'P', 'K', 'temperature', 'humidity', 'ph', 'rainfall', 'label'.I have cleaned the dataset, checked for null value.Analysed the distribution of rainfall and soil pH.Analysed the suitable temperature range for crop production.The right temperature will result in good quality crop production.</p>

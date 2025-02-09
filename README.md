@@ -1,6 +1,10 @@
 # Week-1 to Week-3
-<h3>Crop Production Dataset is preprocessed and data visualisation is performed to gain insights.</h3>
+<h3>Crop Production and Fertilizer Prediction Dataset is preprocessed and data visualisation is performed to gain insights.</h3>
 <br>
 <p>Crop production dataset has various columns such as 'N', 'P', 'K', 'temperature', 'humidity', 'ph', 'rainfall', 'label'.
+<br>
+Fertilizer Prediction dataset has various columns such as 'Temparature', 'Humidity', 'Moisture', 'Soil Type', 'Crop Type', 'Nitrogen', 'Potassium', 'Phosphorous', 'fert_no'.
+
   <br>
-  I have cleaned the dataset, checked for null value.Analysed the distribution of rainfall and soil pH.Analysed the suitable temperature range for crop production.The right temperature will result in good quality crop production.</p>
+  I have collected and analyzed agricultural dataset for crop production containing soil parameters (N, P, K values), temperature, humidity, pH, and rainfall and similarly for fertilizers prediction dataser containing soil parameters (N, P, K values), Temparature, Humidity, Moisture, Soil Type, Crop Type .I have performed data preprocessing, handling missing values and checking for duplicates.
+I have used exploratory data analysis (EDA) to visualize correlations between features and crop recommendations.I have implemented a Decision Tree Classifier to predict the best crop for given soil and climate conditions.I have also evaluated the model's accuracy</p>

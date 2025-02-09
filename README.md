@@ -10,4 +10,4 @@
 <br><br>I have performed data preprocessing, handling missing values and checking for duplicates.
 <br><br>I have used exploratory data analysis (EDA) to visualize correlations between features and crop recommendations.
 <br><br>I have implemented a Decision Tree Classifier to predict the best crop for given soil and climate conditions.
-<br>I have also evaluated the model's accuracy</p>
+<br><br>I have also evaluated the model's accuracy</p>

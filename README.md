@@ -7,7 +7,7 @@
   <br>
 
   <li>I have collected and analyzed agricultural dataset for crop production containing soil parameters (N, P, K values), temperature, humidity, pH, and rainfall and similarly for fertilizers prediction dataser containing soil parameters (N, P, K values), Temparature, Humidity, Moisture, Soil Type, Crop Type .</li>
-<br><br><li>I have performed data preprocessing, handling missing values and checking for duplicates.</li>
-<br><br><li>I have used exploratory data analysis (EDA) to visualize correlations between features and crop recommendations.</li>
-<br><br><li>I have implemented a Decision Tree Classifier to predict the best crop for given soil and climate conditions.</li>
-<br><br><li>I have also evaluated the model's accuracy</li>
+<br><li>I have performed data preprocessing, handling missing values and checking for duplicates.</li>
+<br><li>I have used exploratory data analysis (EDA) to visualize correlations between features and crop recommendations.</li>
+<br><li>I have implemented a Decision Tree Classifier to predict the best crop for given soil and climate conditions.</li>
+<br><li>I have also evaluated the model's accuracy</li>
